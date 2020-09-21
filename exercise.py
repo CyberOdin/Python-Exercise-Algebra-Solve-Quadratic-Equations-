@@ -11,8 +11,6 @@ If the discriminant is 0, display one root.
 
 Otherwise, display “The equation has no real roots”.
 """
-
-
 import math
 
 a = float(input("Enter a: "))
